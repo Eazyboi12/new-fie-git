@@ -1,0 +1,28 @@
+/* selector{
+ptoperty: value: 
+} */
+
+/* GENERAL SELECTION*/
+
+/* *{
+    background-color: black;
+    color: blue;
+} */
+
+h1{
+    color: blue;
+    text-align: center;
+    background-color: brown;
+}
+h2{
+    color: blueviolet;
+    background-color: aqua;
+}
+
+h3{
+
+    background-color: blue;
+
+}
+
+    
